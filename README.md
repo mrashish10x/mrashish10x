@@ -43,3 +43,56 @@
 </div>
 
 ###
+# 👋 Hi, I'm Ashish Kumar
+
+### 💻 Developer | Problem Solver | Tech Enthusiast
+
+I love building projects, learning new technologies, and improving my coding skills every day.
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mrashish10x" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📊 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrashish10x&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrashish10x&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+## 🚀 Currently Learning
+
+* Data Structures & Algorithms
+* Web Development
+* Data & AI Technologies
+* Git & GitHub
+
+---
+
+## 📫 Connect With Me
+
+**GitHub:** [@mrashish10x](https://github.com/mrashish10x)
+
