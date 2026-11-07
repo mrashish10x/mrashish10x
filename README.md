@@ -1,57 +1,59 @@
 <div align="center">
 
-<!-- CUSTOM 3D ANIMATED HERO -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B14,50:101D35,100:123C69&height=190&section=header&text=ASHISH%20KUMAR&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=SOFTWARE%20DEVELOPMENT%20%20%2F%2F%20%20PROBLEM%20SOLVING&descSize=13&descColor=60A5FA&descAlignY=68&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:050816,30:102A43,65:155E75,100:0EA5E9&text=ASHISH%20KUMAR&fontSize=65&fontColor=FFFFFF&fontAlignY=42&desc=THE%20MIND%20BEHIND%20THE%20MACHINE&descSize=15&descAlignY=62&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Reality;Building+Digital+Experiences;Learning+DSA+With+C%2B%2B;Always+Building+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=I+don't+just+write+code.;I+build+things+that+matter.;Learning.+Experimenting.+Creating.;Welcome+to+my+digital+space." />
 
 <br/><br/>
 
 <a href="https://ashishportfolioss.netlify.app/">
-<img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-60A5FA?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-</a>
-
-<a href="https://github.com/mrashish10x">
-<img src="https://img.shields.io/badge/GITHUB_PROFILE-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/ENTER_MY_WORLD-Visit_Portfolio-38BDF8?style=for-the-badge&labelColor=080D18"/>
 </a>
 
 <br/><br/>
 
-`DEVELOPER` &nbsp; ✦ &nbsp; `CREATOR` &nbsp; ✦ &nbsp; `PROBLEM SOLVER`
+`B.TECH IT` &nbsp; ◈ &nbsp; `DEVELOPER IN PROGRESS` &nbsp; ◈ &nbsp; `INDIA`
 
 </div>
 
 ---
 
-<div align="center">
-
-## ◈ BEHIND THE CODE
-
-</div>
-
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="58%" valign="top">
 
-### Hey, I'm Ashish 👋
+## THE HUMAN BEHIND THE CODE.
 
-I'm a B.Tech Information Technology student at **Rajkiya Engineering College, Bijnor**.
+Hey! I'm **Ashish Kumar**.
 
-I enjoy exploring technology, solving programming problems and building practical applications.
+An Information Technology student who enjoys turning ideas into functional digital experiences.
 
-- 🎓 B.Tech — Information Technology
-- 💻 Practising DSA with C++
-- 🌐 Exploring Web Development
-- 🚀 Building real-world projects
-- 📚 Learning and improving every day
+Currently exploring the world of software engineering, strengthening my programming fundamentals and building projects along the way.
+
+**CURRENT MISSION**
+
+- Mastering DSA with C++
+- Exploring Web Development
+- Building useful applications
+- Improving one project at a time
 
 </td>
-<td width="35%" align="center">
+<td width="42%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github,vscode&theme=dark&perline=2"/>
+```text
+┌─────────────────────────┐
+│     DEVELOPER.exe       │
+├─────────────────────────┤
+│ NAME    Ashish Kumar    │
+│ ROLE    B.Tech IT       │
+│ STATUS  Learning        │
+│ FOCUS   Development     │
+│ MODE    Build           │
+│ BASE    India           │
+└─────────────────────────┘
+```
 
 </td>
 </tr>
@@ -61,68 +63,61 @@ I enjoy exploring technology, solving programming problems and building practica
 
 <div align="center">
 
-## ◈ TECHNOLOGY STACK
+## THE TECHNOLOGY DIMENSION
 
-*Tools I work with and technologies I'm exploring.*
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode&theme=dark&perline=9"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-## ◈ SELECTED PROJECTS
-
-*Things I've built with curiosity and code.*
-
-</div>
+## PROJECTS / BUILT IN THE REAL WORLD
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 / PERSONAL PORTFOLIO
+### 01 — PORTFOLIO
 
-<img src="https://img.shields.io/badge/PERSONAL_WEBSITE-PORTFOLIO-38BDF8?style=flat-square"/>
+<img src="https://img.shields.io/badge/PROJECT_01-PERSONAL_WEBSITE-38BDF8?style=flat-square"/>
 
-A personal developer website showcasing my education, experience, skills, projects and journey.
+**My digital identity.**
 
-**Technologies:** HTML · CSS · JavaScript
+A personal portfolio showcasing my education, skills, experience, projects and developer journey.
+
+**Stack:** HTML · CSS · JavaScript
 
 <br/>
 
 <a href="https://ashishportfolioss.netlify.app/">
-<img src="https://img.shields.io/badge/LIVE_PREVIEW-Visit_Website-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPEN_LIVE-38BDF8?style=for-the-badge&labelColor=080D18"/>
 </a>
 
 <a href="https://github.com/mrashish10x/portfolio">
-<img src="https://img.shields.io/badge/SOURCE_CODE-GitHub-1E293B?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/SOURCE_CODE-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
-
 <td width="50%" valign="top">
 
-### 02 / PRESENTY
+### 02 — PRESENTY
 
-<img src="https://img.shields.io/badge/WEB_APPLICATION-ATTENDANCE-818CF8?style=flat-square"/>
+<img src="https://img.shields.io/badge/PROJECT_02-ATTENDANCE_SYSTEM-818CF8?style=flat-square"/>
 
-A web-based attendance management project featuring an admin interface.
+**Managing attendance digitally.**
 
-**Category:** Web Application · Attendance Management
+A web-based attendance management project with an admin interface.
+
+**Category:** Web Application
 
 <br/>
 
 <a href="https://presentylive.netlify.app/login/admin">
-<img src="https://img.shields.io/badge/LIVE_PREVIEW-Open_Presenty-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPEN_LIVE-818CF8?style=for-the-badge&labelColor=080D18"/>
 </a>
 
 <a href="https://github.com/mrashish10x/presently">
-<img src="https://img.shields.io/badge/SOURCE_CODE-GitHub-1E293B?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/SOURCE_CODE-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
@@ -133,20 +128,14 @@ A web-based attendance management project featuring an admin interface.
 
 <div align="center">
 
-## ◈ CODING PROFILES
-
-<br/>
+## THE PROBLEM-SOLVING ARENA
 
 <a href="https://leetcode.com/u/mrashish10x/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LEETCODE-Explore_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://www.naukri.com/code360/profile/a7a26b40-878e-411c-912e-bc389b378a73">
-<img src="https://img.shields.io/badge/CODING_NINJAS-FF6B35?style=for-the-badge&logo=code&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mrashish10x">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/CODING_NINJAS-Explore_Code360-FF6B35?style=for-the-badge&logo=code&logoColor=white"/>
 </a>
 
 </div>
@@ -155,17 +144,11 @@ A web-based attendance management project featuring an admin interface.
 
 <div align="center">
 
-## ◈ GITHUB ANALYTICS
+## GITHUB / LIVE SYSTEM STATUS
 
-<br/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrashish10x&show_icons=true&hide_border=true&bg_color=080D18&title_color=38BDF8&icon_color=818CF8&text_color=E2E8F0"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrashish10x&show_icons=true&hide_border=true&bg_color=080D18&title_color=60A5FA&icon_color=818CF8&text_color=E6EDF7&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrashish10x&layout=compact&hide_border=true&bg_color=080D18&title_color=60A5FA&text_color=E6EDF7"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=mrashish10x&hide_border=true&background=080D18&ring=60A5FA&fire=818CF8&currStreakLabel=60A5FA&sideLabels=E6EDF7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrashish10x&layout=compact&hide_border=true&bg_color=080D18&title_color=38BDF8&text_color=E2E8F0"/>
 
 </div>
 
@@ -173,22 +156,16 @@ A web-based attendance management project featuring an admin interface.
 
 <div align="center">
 
-## ◈ LET'S CONNECT
+## END OF TRANSMISSION.
 
-<br/>
+### STILL LEARNING. STILL BUILDING.
 
-<a href="https://github.com/mrashish10x">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**ASHISH KUMAR**
 
-<a href="https://ashishportfolioss.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+<a href="https://ashishportfolioss.netlify.app/">PORTFOLIO</a>
+&nbsp; ◈ &nbsp;
+<a href="https://github.com/mrashish10x">GITHUB</a>
 
-<br/><br/>
-
-### BUILD WITH PURPOSE. KEEP EVOLVING.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:123C69,50:101D35,100:080B14&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:102A43,100:050816&height=120&section=footer" width="100%"/>
 
 </div>
