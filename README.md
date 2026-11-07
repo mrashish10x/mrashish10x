@@ -1,44 +1,63 @@
+<!-- =============== HERO SECTION =============== -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080B16,50:151B35,100:073B4C&height=230&section=header&text=ASHISH%20KUMAR&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20IN%20PROGRESS&descSize=16&descAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020617,35:111827,70:312e81,100:0891b2&text=ASHISH%20KUMAR&fontSize=65&fontColor=ffffff&stroke=06b6d4&strokeWidth=1&animation=fadeIn&fontAlignY=45&desc=ENGINEERING%20THE%20FUTURE%20ONE%20LINE%20AT%20A%20TIME&descSize=14&descAlignY=65" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Reality;Exploring+Software+Development;Learning+DSA+%26+Problem+Solving;Turning+Coffee+Into+Code" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Building+Digital+Experiences;Exploring+Data+Structures+%26+Algorithms;Turning+Ideas+Into+Code" />
 
 <br/><br/>
 
 <a href="https://github.com/mrashish10x">
-<img src="https://komarev.com/ghpvc/?username=mrashish10x&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=22D3EE" />
 </a>
+<a href="https://ashishportfolioss.netlify.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-020617?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mrashish10x&style=flat-square&color=0891b2&label=PROFILE+VIEWS" />
 
 </div>
 
-<br/>
+---
 
-## `01` — WHO AM I?
+<!-- =============== INTRODUCTION =============== -->
+
+<h2 align="center">◈ THE DEVELOPER BEHIND THE CODE</h2>
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="62%" valign="middle">
 
-### Hey, I'm Ashish 👋
+### Hello, World! I'm Ashish 👋
 
-I'm an Information Technology student passionate about technology, software development, and building things that solve real problems.
+I'm a B.Tech Information Technology student with a passion for software engineering, problem-solving and building meaningful digital products.
 
-- 🎓 B.Tech IT — Rajkiya Engineering College, Bijnor
-- 💻 Exploring Software Development
-- 🧠 Practicing Data Structures & Algorithms
-- 🌱 Learning C++, CSS and Web Development
-- 🚀 Building practical projects
-- 🎯 Working towards becoming a Software Engineer
+I enjoy exploring how technology works behind the scenes and turning ideas into practical projects.
 
-**My mindset:** Learn. Build. Improve. Repeat.
+**CURRENT FOCUS**
+
+- Building my software development foundation.
+- Practicing Data Structures & Algorithms.
+- Exploring C++, HTML and CSS.
+- Developing real-world projects.
+- Learning something new every day.
+
+> "Great software isn't built in a day. It's built one improvement at a time."
 
 </td>
-<td width="40%" align="center">
+<td width="38%" align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+<br/>
+
+**B.Tech IT**  
+Rajkiya Engineering College, Bijnor
 
 </td>
 </tr>
@@ -46,132 +65,153 @@ I'm an Information Technology student passionate about technology, software deve
 
 ---
 
-## `02` — TECH ARSENAL
+<!-- =============== TECH STACK =============== -->
+
+<h2 align="center">◈ TECHNOLOGY UNIVERSE</h2>
 
 <div align="center">
 
-### Languages & Development
+### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" />
 
-### Tools & Technologies
+### Web & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## `03` — SELECTED PROJECTS
+<!-- =============== PROJECTS =============== -->
+
+<h2 align="center">◈ FEATURED CREATIONS</h2>
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🌐 Personal Portfolio</h3>
+<h3 align="center">01 / PERSONAL PORTFOLIO</h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/PROJECT-PORTFOLIO-06B6D4?style=flat-square" />
+
+<img src="https://img.shields.io/badge/WEB-PORTFOLIO-06B6D4?style=flat-square" />
+
 </div>
 
-A personal website showcasing my developer journey, projects and work.
+A personal portfolio website presenting my developer journey, work and projects.
 
 <br/>
 
 <div align="center">
 
 <a href="https://ashishportfolioss.netlify.app/">
-<img src="https://img.shields.io/badge/LIVE_PREVIEW-Visit_Website-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EXPLORE_LIVE-0891B2?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/mrashish10x/portfolio">
-<img src="https://img.shields.io/badge/SOURCE_CODE-GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/VIEW_SOURCE-1E293B?style=for-the-badge&logo=github" />
 </a>
 
 </div>
-</td>
 
+</td>
 <td width="50%" valign="top">
 
-<h3 align="center">📊 Presenty</h3>
+<h3 align="center">02 / PRESENTY</h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/PROJECT-ATTENDANCE_SYSTEM-8B5CF6?style=flat-square" />
+
+<img src="https://img.shields.io/badge/WEB-ATTENDANCE_SYSTEM-8B5CF6?style=flat-square" />
+
 </div>
 
-A web-based attendance management project with an admin interface.
+A web-based attendance management project featuring an admin interface.
 
 <br/>
 
 <div align="center">
 
 <a href="https://presentylive.netlify.app/login/admin">
-<img src="https://img.shields.io/badge/LIVE_PREVIEW-Open_Project-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EXPLORE_LIVE-7C3AED?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/mrashish10x/presently">
-<img src="https://img.shields.io/badge/SOURCE_CODE-GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/VIEW_SOURCE-1E293B?style=for-the-badge&logo=github" />
 </a>
 
 </div>
+
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## `04` — GITHUB PERFORMANCE
+<!-- =============== GITHUB ANALYTICS =============== -->
+
+<h2 align="center">◈ GITHUB INTELLIGENCE</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrashish10x&show_icons=true&hide_border=true&bg_color=080B16&title_color=00E5FF&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrashish10x&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=8B5CF6&text_color=CBD5E1&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrashish10x&layout=compact&hide_border=true&bg_color=080B16&title_color=00E5FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrashish10x&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=mrashish10x&hide_border=true&background=080B16&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+<img width="75%" src="https://streak-stats.demolab.com?user=mrashish10x&theme=transparent&hide_border=true&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" />
 
 </div>
 
 ---
 
-## `05` — CODING PROFILES
+<!-- =============== CODING PROFILES =============== -->
+
+<h2 align="center">◈ PROBLEM SOLVING ARENA</h2>
 
 <div align="center">
 
 <a href="https://leetcode.com/u/mrashish10x/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <a href="https://www.hackerrank.com/profile/ashishkumar28321">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+<img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
 <a href="https://github.com/mrashish10x">
-<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
 </div>
 
 ---
 
-## `06` — LET'S CONNECT
+<!-- =============== CONNECT =============== -->
+
+<h2 align="center">◈ ESTABLISH CONNECTION</h2>
 
 <div align="center">
 
 <a href="https://github.com/mrashish10x">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-0F172A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://ashishportfolioss.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" />
 </a>
 
 <br/><br/>
 
-### ✦ Building today. Innovating tomorrow. ✦
+### `BUILD  •  LEARN  •  INNOVATE  •  REPEAT`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:073B4C,50:151B35,100:080B16&height=120&section=footer" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:312e81,100:020617&height=150&section=footer" width="100%" />
 
 </div>
