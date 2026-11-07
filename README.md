@@ -1,155 +1,133 @@
-<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:312e81,100:0891b2&text=Ashish%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20IT%20%E2%80%A2%20Aspiring%20Software%20Engineer%20%E2%80%A2%20Problem%20Solver&descSize=16&descAlignY=58&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=70&lines=Ashish+Kumar;Full-Stack+Developer+in+the+making;B.Tech+IT+%40+REC+Bijnor" alt="Ashish Kumar" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ashish+%F0%9F%91%8B;I+turn+ideas+into+working+code;Learning+DSA+%26+Building+Real+Projects;Open+to+internships+%26+collaborations" />
+**I build web apps that solve real problems, and I'm getting better at DSA every day.**
 
-<br/>
-
-<a href="https://ashishportfolioss.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://github.com/mrashish10x"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/u/mrashish10x/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://www.hackerrank.com/profile/ashishkumar28321"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=mrashish10x&style=flat-square&color=0891b2&label=PROFILE+VIEWS" />
+<a href="https://ashishportfolioss.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=flat-square&logo=googlechrome&logoColor=black" /></a>
+<a href="https://leetcode.com/u/mrashish10x/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.hackerrank.com/profile/ashishkumar28321"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=black" /></a>
+<img src="https://komarev.com/ghpvc/?username=mrashish10x&style=flat-square&color=22D3EE&label=views" />
 
 </div>
 
-<br/>
+---
 
-<!-- ===================== ABOUT ===================== -->
+## 👋 Quick intro
 
-## 👨‍💻 About Me
+```text
+$ whoami
+ashish — B.Tech IT student, Rajkiya Engineering College, Bijnor
 
-I'm a **B.Tech Information Technology** student at **Rajkiya Engineering College, Bijnor**. I love understanding how things work behind the scenes and turning ideas into practical, usable products.
+$ cat now.txt
+→ shipping a multi-role SaaS (Presently) with Next.js + Prisma
+→ solving DSA problems in C++
+→ learning how production apps are actually secured & deployed
 
-```js
-const ashish = {
-  role: "B.Tech IT Student",
-  college: "Rajkiya Engineering College, Bijnor",
-  languages: ["C", "C++", "Python", "JavaScript"],
-  currentlyLearning: ["Data Structures & Algorithms", "Web Development"],
-  currentlyBuilding: "Real-world projects",
-  motto: "Build. Learn. Improve. Repeat.",
-};
+$ cat goal.txt
+→ land a software engineering internship, then a full-time role
 ```
 
-### 🎯 Current Focus
+---
 
-- 🧠 Practicing **Data Structures & Algorithms** in C++
-- 🌐 Building responsive websites with **HTML, CSS & JavaScript**
-- 🚀 Shipping real projects instead of just tutorials
-- 📈 Getting 1% better every single day
+## 🚀 Flagship project: Presently
 
-<br/>
-
-<!-- ===================== TECH STACK ===================== -->
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" />
-
-**Web & Tools**
-
-<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,netlify&theme=dark" />
-
-</div>
-
-<br/>
-
-<!-- ===================== PROJECTS ===================== -->
-
-## 🚀 Featured Projects
+> **A multi-role attendance management SaaS** for colleges, with separate Admin, Teacher and Student areas.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### 🌐 Personal Portfolio
+**What it does**
 
-My personal website showcasing my developer journey, skills and projects.
+- 🔐 Role-based login: `/login/admin`, `/login/teacher`, `/login/student`
+- 🏫 College-aware data model (multiple colleges, isolated data)
+- 🧑‍🏫 Teacher assignment boundaries & attendance workflow
+- ✉️ Email integration via Resend, Google OAuth sign-in
+- 📊 Dashboards and charts with Recharts
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Status:** 🟡 active development
 
-[![Live](https://img.shields.io/badge/Live_Demo-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ashishportfolioss.netlify.app/)
-[![Code](https://img.shields.io/badge/Source_Code-1e293b?style=for-the-badge&logo=github)](https://github.com/mrashish10x/portfolio)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=black)](https://presentylive.netlify.app/login/admin)
+[![Source](https://img.shields.io/badge/Source_Code-0f172a?style=for-the-badge&logo=github)](https://github.com/mrashish10x/presently)
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### 📋 Presenty
+**Built with**
 
-A web-based attendance management system with a dedicated admin interface.
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[![Live](https://img.shields.io/badge/Live_Demo-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://presentylive.netlify.app/login/admin)
-[![Code](https://img.shields.io/badge/Source_Code-1e293b?style=for-the-badge&logo=github)](https://github.com/mrashish10x/presently)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
+![Turso](https://img.shields.io/badge/Turso_(libSQL)-4FF8D2?style=flat-square&logo=turso&logoColor=black)
+![NextAuth](https://img.shields.io/badge/NextAuth_v5-7C3AED?style=flat-square)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square)
 
 </td>
 </tr>
 </table>
 
-<br/>
+**How the pieces fit together**
 
-<!-- ===================== STATS ===================== -->
+```mermaid
+flowchart LR
+    U([User]) --> N[Next.js App Router]
+    N --> A{{NextAuth + bcrypt}}
+    A --> AD[Admin]
+    A --> T[Teacher]
+    A --> S[Student]
+    AD & T & S --> P[Prisma ORM]
+    P --> D[(Turso / libSQL)]
+    N --> R[Resend emails]
+```
 
-## 📊 GitHub Stats
+---
+
+## 🧰 Tech I work with
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mrashish10x&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=8B5CF6&text_color=CBD5E1&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrashish10x&layout=compact&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=CBD5E1" />
-
-<br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=mrashish10x&theme=transparent&hide_border=true&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" />
+| | |
+|---|---|
+| **Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend & Data** | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma) ![SQLite](https://img.shields.io/badge/SQLite/libSQL-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) |
 
 </div>
 
-<br/>
+---
 
-<!-- ===================== PROBLEM SOLVING ===================== -->
+## 🌐 Other work
 
-## 🧩 Problem Solving
+| Project | What it is | Links |
+|---|---|---|
+| **Personal Portfolio** | My personal site: skills, projects and journey in one place | [Live](https://ashishportfolioss.netlify.app/) · [Code](https://github.com/mrashish10x/portfolio) |
+
+---
+
+## 📈 Activity
 
 <div align="center">
 
-<a href="https://leetcode.com/u/mrashish10x/"><img src="https://img.shields.io/badge/Solve_with_me_on-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://www.hackerrank.com/profile/ashishkumar28321"><img src="https://img.shields.io/badge/Follow_me_on-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mrashish10x&show_icons=true&hide_border=true&theme=transparent&title_color=22D3EE&icon_color=22D3EE&text_color=8b949e" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrashish10x&layout=compact&hide_border=true&theme=transparent&title_color=22D3EE&text_color=8b949e" />
+
+<img width="85%" src="https://streak-stats.demolab.com?user=mrashish10x&theme=transparent&hide_border=true&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" />
 
 </div>
 
-<br/>
+---
 
-<!-- ===================== CONNECT ===================== -->
+## 🤝 Let's connect
 
-## 🤝 Let's Connect
-
-Open to **internships, collaborations and learning opportunities**. If you like my work, feel free to explore my portfolio or drop a ⭐ on my repositories!
+I'm open to **internships, open-source contributions and project collaborations**.
+The best way to reach me is through my [portfolio](https://ashishportfolioss.netlify.app/) or by opening an issue / following on GitHub.
 
 <div align="center">
 
-<a href="https://ashishportfolioss.netlify.app/"><img src="https://img.shields.io/badge/Visit_My_Portfolio-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://github.com/mrashish10x"><img src="https://img.shields.io/badge/Follow_on_GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-> *"Great software isn't built in a day. It's built one improvement at a time."*
-
-### `BUILD  •  LEARN  •  INNOVATE  •  REPEAT`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0891b2,50:312e81,100:0f172a&section=footer" width="100%" />
+<sub>⭐ If something here helped or interested you, a star on my repos means a lot.</sub>
 
 </div>
