@@ -1,103 +1,103 @@
 <div align="center">
 
-# ASHISH KUMAR
+# Ashish Kumar
+### Developer Portfolio
 
-### Personal Portfolio Website
-
-**A digital space to showcase my work, skills and developer journey.**
+*Learning to build things for the web.*
 
 <br/>
 
 <a href="https://ashishportfolioss.netlify.app/">
-  <img src="https://img.shields.io/badge/VIEW_LIVE_PORTFOLIO-Visit_Website-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="https://github.com/mrashish10x">
-  <img src="https://img.shields.io/badge/GITHUB-Explore_Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-Visit_Website-CB4525?style=for-the-badge&labelColor=1D1B18" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square" />
+**B.Tech IT Student · Aspiring Software Developer · Problem Solver**
+
+<br/>
+
+`HTML` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `React` &nbsp; `C++`
 
 </div>
 
 ---
 
-## Overview
+## 01 — The Project
 
-This repository contains my personal portfolio website, created to present my developer profile, technical interests, projects and learning journey.
+A personal portfolio website designed to introduce who I am, showcase my work, and document my journey as a developer.
 
-The website serves as my digital identity and a central place to explore my work and connect with me.
+The design follows a clean editorial aesthetic with elegant typography, warm neutral colours, and a simple user experience.
 
-## Tech Stack
+It is built to be more than just a collection of links — it's my digital identity.
 
-| Technology | Purpose |
+## 02 — Inside the Portfolio
+
+| Section | Description |
 |:---|:---|
-| HTML5 | Website structure |
-| CSS3 | Styling and layout |
-| JavaScript | Interactive functionality |
+| Education | My academic background |
+| Experience | My learning and development journey |
+| Projects | Things I've built |
+| Skills | Technologies I'm exploring |
+| Certificates | Learning milestones |
+| Contact | Connect with me |
 
-## Project Structure
+## 03 — Design Philosophy
 
-```text
-portfolio/
-│
-├── index.html
-└── README.md
-```
+**Less noise. More personality.**
 
-The portfolio is maintained in a single HTML file, with its HTML, CSS and JavaScript code organized within it.
+- Warm cream and neutral colour palette.
+- Bold serif typography for visual identity.
+- Rust-orange accents for highlights.
+- Clean navigation and spacious layouts.
+- Light and dark viewing modes.
 
-## Live Website
+## 04 — Built With
 
-Explore the deployed portfolio:
+<div align="left">
 
-**https://ashishportfolioss.netlify.app/**
+| Technology | Role |
+|:---|:---|
+| HTML5 | Structure |
+| CSS3 | Styling and responsive layout |
+| JavaScript | Interactivity |
+| React | Web development learning |
 
-## Run Locally
+</div>
 
-Want to explore the project on your computer?
+## 05 — Run Locally
 
-1. Clone this repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/mrashish10x/portfolio.git
 ```
 
-2. Open the project folder:
+Open the project:
 
 ```bash
 cd portfolio
 ```
 
-3. Open `index.html` in your browser.
+Launch `index.html` in your browser.
 
-## About the Developer
+## 06 — Connect
 
 **Ashish Kumar**  
 B.Tech — Information Technology  
 Rajkiya Engineering College, Bijnor
 
-I'm interested in software development, problem-solving and learning new technologies. I enjoy building projects and continuously improving my development skills.
+- Portfolio: [ashishportfolioss.netlify.app](https://ashishportfolioss.netlify.app/)
+- GitHub: [@mrashish10x](https://github.com/mrashish10x)
+- LeetCode: [Profile](https://leetcode.com/u/mrashish10x/)
+- HackerRank: [Profile](https://www.hackerrank.com/profile/ashishkumar28321)
 
-## Connect
+---
 
 <div align="center">
 
-<a href="https://github.com/mrashish10x">GitHub</a>
-&nbsp; • &nbsp;
-<a href="https://leetcode.com/u/mrashish10x/">LeetCode</a>
-&nbsp; • &nbsp;
-<a href="https://www.hackerrank.com/profile/ashishkumar28321">HackerRank</a>
-&nbsp; • &nbsp;
-<a href="https://ashishportfolioss.netlify.app/">Portfolio</a>
+*Designed with intention. Built with curiosity.*
 
-<br/><br/>
-
-**Designed with purpose. Built with code.**
+**© Ashish Kumar**
 
 </div>
