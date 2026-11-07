@@ -1,53 +1,103 @@
-# Hi, I'm Ashish.
+<div align="center">
 
-I'm a student at Rajkiya Engineering College, Bijnor, studying Information Technology. I like making websites and apps that people can actually open and use.
+# ASHISH KUMAR
 
-Right now I'm learning to build complete web apps, and practicing problem solving in C++ on the side.
+### Personal Portfolio Website
 
-[Portfolio](https://ashishportfolioss.netlify.app/) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/u/mrashish10x/) &nbsp;·&nbsp; [HackerRank](https://www.hackerrank.com/profile/ashishkumar28321)
+**A digital space to showcase my work, skills and developer journey.**
 
----
+<br/>
 
-## What I've built
+<a href="https://ashishportfolioss.netlify.app/">
+  <img src="https://img.shields.io/badge/VIEW_LIVE_PORTFOLIO-Visit_Website-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
-### Presently
-**An attendance app for colleges.**
+<a href="https://github.com/mrashish10x">
+  <img src="https://img.shields.io/badge/GITHUB-Explore_Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-Taking attendance on paper is slow and easy to get wrong. Presently moves it online. There are three kinds of users, and each one has their own login and their own screen:
+<br/><br/>
 
-- **Admin** sets up the college and manages everyone
-- **Teacher** marks attendance for their classes
-- **Student** checks their own attendance
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square" />
 
-You can try the admin side here: [open Presently](https://presentylive.netlify.app/login/admin)
-The code is here: [github.com/mrashish10x/presently](https://github.com/mrashish10x/presently)
-
-*Made with:* Next.js, React, TypeScript, Tailwind CSS, Prisma and Turso (database).
-It's still a work in progress, and I keep improving it.
-
-### My portfolio website
-**A simple site about me and my work.**
-
-Everything I've made, in one place, so someone can get to know me in a minute.
-
-[Visit the site](https://ashishportfolioss.netlify.app/) &nbsp;·&nbsp; [Code](https://github.com/mrashish10x/portfolio)
+</div>
 
 ---
 
-## What I'm working on
+## Overview
 
-- Making Presently more reliable before calling it finished
-- Solving a few coding problems regularly to get faster at thinking through them
-- Learning how real apps are kept safe and put online
+This repository contains my personal portfolio website, created to present my developer profile, technical interests, projects and learning journey.
 
----
+The website serves as my digital identity and a central place to explore my work and connect with me.
 
-## Languages and tools I use
+## Tech Stack
 
-C, C++, Python, JavaScript, TypeScript, HTML, CSS, React, Next.js, Git
+| Technology | Purpose |
+|:---|:---|
+| HTML5 | Website structure |
+| CSS3 | Styling and layout |
+| JavaScript | Interactive functionality |
 
----
+## Project Structure
 
-## Say hello
+```text
+portfolio/
+│
+├── index.html
+└── README.md
+```
 
-If you're hiring interns, building something small, or just want to talk about code, I'd like to hear from you. Visit my [portfolio](https://ashishportfolioss.netlify.app/) or follow me here on GitHub.
+The portfolio is maintained in a single HTML file, with its HTML, CSS and JavaScript code organized within it.
+
+## Live Website
+
+Explore the deployed portfolio:
+
+**https://ashishportfolioss.netlify.app/**
+
+## Run Locally
+
+Want to explore the project on your computer?
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/mrashish10x/portfolio.git
+```
+
+2. Open the project folder:
+
+```bash
+cd portfolio
+```
+
+3. Open `index.html` in your browser.
+
+## About the Developer
+
+**Ashish Kumar**  
+B.Tech — Information Technology  
+Rajkiya Engineering College, Bijnor
+
+I'm interested in software development, problem-solving and learning new technologies. I enjoy building projects and continuously improving my development skills.
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/mrashish10x">GitHub</a>
+&nbsp; • &nbsp;
+<a href="https://leetcode.com/u/mrashish10x/">LeetCode</a>
+&nbsp; • &nbsp;
+<a href="https://www.hackerrank.com/profile/ashishkumar28321">HackerRank</a>
+&nbsp; • &nbsp;
+<a href="https://ashishportfolioss.netlify.app/">Portfolio</a>
+
+<br/><br/>
+
+**Designed with purpose. Built with code.**
+
+</div>
