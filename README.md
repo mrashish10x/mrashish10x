@@ -1,76 +1,60 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080B14,45:111B32,100:123C69&height=190&section=header&text=ASHISH%20KUMAR&fontSize=58&fontColor=F1F5F9&fontAlignY=43&desc=SOFTWARE%20DEVELOPMENT%20%20%2F%2F%20%20PROBLEM%20SOLVING&descSize=13&descColor=60A5FA&descAlignY=68&animation=fadeIn"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=PORTFOLIO%20%2F%2F%202026&fontSize=17&fontColor=F97316&fontAlign=50&animation=fadeIn" width="100%"/>
+
+# ASHISH<br/>KUMAR<span style="color:#F97316">.</span>
+
+### CREATIVE DEVELOPER &nbsp; / &nbsp; PROBLEM SOLVER
 
 <br/>
 
-### `Curiosity → Code → Creation`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=600&lines=B.Tech+Information+Technology+Student;Building+Projects+and+Learning+Every+Day;Exploring+Data+Structures+%26+Algorithms;Aspiring+Software+Engineer"/>
+**I BUILD. I EXPERIMENT. I KEEP EVOLVING.**
 
 <br/>
 
 <a href="https://ashishportfolioss.netlify.app/">
-<img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-60A5FA?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-</a>
-<a href="https://github.com/mrashish10x">
-<img src="https://img.shields.io/badge/GITHUB_PROFILE-F1F5F9?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/EXPLORE_MY_WORLD-FF5A1F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-`DEVELOPMENT` &nbsp; · &nbsp; `PROBLEM SOLVING` &nbsp; · &nbsp; `CONTINUOUS LEARNING`
+`BASED IN INDIA` &nbsp; / &nbsp; `B.TECH IT` &nbsp; / &nbsp; `OPEN TO LEARNING`
 
 </div>
 
 ---
 
-<div align="center">
+<div align="right">
 
-## 01 — ABOUT ME
-
-*Creating, experimenting and improving through code.*
+### 01 / THE INTRODUCTION
 
 </div>
 
-I'm **Ashish Kumar**, a B.Tech Information Technology student at Rajkiya Engineering College, Bijnor.
+# NOT JUST CODE.<br/>A WAY OF THINKING.
 
-I'm interested in software development, problem-solving and building practical applications. I believe in learning by building and improving my skills through consistent practice.
+I'm **Ashish Kumar**, an Information Technology student at Rajkiya Engineering College, Bijnor.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I enjoy exploring technology, solving problems and turning ideas into functional digital experiences.
 
-**CURRENTLY FOCUSED ON**
+Currently building my foundation in software development while experimenting with web technologies and practical projects.
 
-- Data Structures & Algorithms
-- C++ Programming
-- Web Development
-- Building practical projects
+**CURRENTLY EXPLORING**
 
-</td>
-<td width="50%" valign="top">
-
-**A LITTLE ABOUT ME**
-
-- 🎓 B.Tech — Information Technology
-- 💻 Aspiring Software Engineer
-- 🚀 Project-oriented learner
-- 📍 India
-
-</td>
-</tr>
-</table>
+`C++` &nbsp; `DSA` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `JavaScript`
 
 ---
 
+<div align="right">
+
+### 02 / THE TOOLKIT
+
+</div>
+
+## MY CREATIVE WORKSPACE.
+
 <div align="center">
-
-## 02 — TECHNOLOGY STACK
-
-*Tools I use and technologies I'm exploring.*
-
-<br/>
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode&theme=dark&perline=5"/>
 
@@ -78,77 +62,61 @@ I'm interested in software development, problem-solving and building practical a
 
 ---
 
-<div align="center">
+<div align="right">
 
-## 03 — SELECTED PROJECTS
-
-*Ideas transformed into working applications.*
+### 03 / SELECTED WORK
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+# THINGS I'VE BUILT<span style="color:#F97316">.</span>
 
-<h3>01. PERSONAL PORTFOLIO</h3>
+### 01 — PERSONAL PORTFOLIO
 
-<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-PORTFOLIO-60A5FA?style=flat-square"/>
+**MY DIGITAL IDENTITY.**
 
-A personal website presenting my developer identity, education, experience, skills and projects.
-
-**Highlights**
-- Personal introduction
-- Project showcase
-- Education and skills
-- Developer profile
-
-<br/>
+A personal website showcasing my introduction, education, experience, projects, skills and developer journey.
 
 <a href="https://ashishportfolioss.netlify.app/">
-<img src="https://img.shields.io/badge/LIVE_PREVIEW-Visit_Website-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VISIT_LIVE_WEBSITE-FF5A1F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
 <a href="https://github.com/mrashish10x/portfolio">
-<img src="https://img.shields.io/badge/SOURCE-View_Code-1E293B?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/EXPLORE_SOURCE-222222?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
-<td width="50%" valign="top">
-
-<h3>02. PRESENTY</h3>
-
-<img src="https://img.shields.io/badge/WEB_APPLICATION-ATTENDANCE-818CF8?style=flat-square"/>
-
-A web-based attendance management project featuring an admin interface.
-
-**Project focus**
-- Attendance management
-- Web-based interface
-- Admin panel
+**BUILT WITH** &nbsp; `HTML` `CSS` `JavaScript`
 
 <br/>
-
-<a href="https://presentylive.netlify.app/login/admin">
-<img src="https://img.shields.io/badge/LIVE_PREVIEW-Open_Project-6366F1?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/mrashish10x/presently">
-<img src="https://img.shields.io/badge/SOURCE-View_Code-1E293B?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-</tr>
-</table>
 
 ---
 
+### 02 — PRESENTY
+
+**ATTENDANCE MANAGEMENT SYSTEM.**
+
+A web-based attendance management project featuring an admin interface.
+
+<a href="https://presentylive.netlify.app/login/admin">
+<img src="https://img.shields.io/badge/OPEN_PRESENTY-8B5CF6?style=for-the-badge"/>
+</a>
+<a href="https://github.com/mrashish10x/presently">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-222222?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+**CATEGORY** &nbsp; `WEB DEVELOPMENT` `ATTENDANCE MANAGEMENT`
+
+---
+
+<div align="right">
+
+### 04 / THE PRACTICE
+
+</div>
+
+# ALWAYS IN PROGRESS.
+
+I believe improvement comes from consistent practice and experimentation.
+
 <div align="center">
-
-## 04 — CODING PROFILES
-
-*Practising. Solving. Getting better.*
-
-<br/>
 
 <a href="https://leetcode.com/u/mrashish10x/">
 <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -159,55 +127,31 @@ A web-based attendance management project featuring an admin interface.
 </a>
 
 <a href="https://github.com/mrashish10x">
-<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 05 — GITHUB STATISTICS
-
-*An overview of my open-source activity.*
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrashish10x&show_icons=true&hide_border=true&bg_color=080D18&title_color=60A5FA&icon_color=818CF8&text_color=CBD5E1&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrashish10x&layout=compact&hide_border=true&bg_color=080D18&title_color=60A5FA&text_color=CBD5E1"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=mrashish10x&hide_border=true&background=080D18&ring=60A5FA&fire=818CF8&currStreakLabel=60A5FA&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 06 — LET'S CONNECT
-
-*Open to learning, collaboration and meaningful conversations.*
-
-<br/>
-
-<a href="https://github.com/mrashish10x">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://ashishportfolioss.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+</div>
 
-<br/><br/>
+---
 
-### `BUILD WITH PURPOSE. KEEP EVOLVING.`
+<div align="center">
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:123C69,50:111B32,100:080B14&height=120&section=footer"/>
+# LET'S BUILD<br/>SOMETHING<br/><span style="color:#F97316">MEANINGFUL.</span>
+
+<br/>
+
+**ASHISH KUMAR**
+
+[PORTFOLIO](https://ashishportfolioss.netlify.app/) &nbsp; / &nbsp; [GITHUB](https://github.com/mrashish10x)
+
+<br/>
+
+`DESIGNED BY CURIOSITY. POWERED BY CODE.`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:FF5A1F&height=100&section=footer" width="100%"/>
 
 </div>
